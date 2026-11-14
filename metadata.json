@@ -1,0 +1,8 @@
+{
+  "name": "Remix Google Maps Scraper Kit",
+  "description": "Google Maps lead generation workspace with email extraction, social enrichment, MX verification, ad pixel detection, and CSV/JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
